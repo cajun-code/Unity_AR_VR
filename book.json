@@ -1,0 +1,16 @@
+{
+    "title": "Unity AR/VR Development",
+    "author": "Allan Davis",
+    "plugins": [
+        "asciidoc-admonition-icons", 
+        "include-codeblock",
+        "ace"
+    ],
+    "pluginsConfig": {
+        "include-codeblock": {
+            "template": "ace", 
+            "unindent": true,
+            "theme": "monokai"
+        }
+    }
+}
