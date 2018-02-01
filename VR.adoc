@@ -1,0 +1,37 @@
+= Introduction to VR with Unity and Google Cardboard
+
+== Virtual Reality
+ Replicates an environment that simulates physical presence in places in the real world or imagined worlds and lets the user interact in that world. Virtual reality artificially creates sensory experiences, which can include sight, hearing, touch, and smell. - Wikipedia
+
+== Google Cardboard
+* Inexpensive Viewer
+* Uses Smartphone for Tracking and viewers
+* SDK available for Free and Open Source
+
+== Unity
+* 3D Cross Platform Game Engine 
+* Code Written with C# or Javascript
+* Free for Use up to $100,000 in Revenue 
+
+== Design Considerations
+* to Avoid Simulator Sickness
+* Frame Rate: 60 or better
+* User needs to control movement
+* Use constant velocity
+* Grounding with fixed objects
+* Brightness changes
+
+== Demo
+
+== Resources
+=== Unity: 
+* http://www.unity3d.com
+
+=== Cardboard
+* SDK: https://developers.google.com/cardboard/unity/download
+* Design Doc: http://www.google.com/design/spec-vr/designing-for-google-cardboard/
+
+=== Slide Deck:
+* http://www.slideshare.net/javaalley
+
+== Questions?
