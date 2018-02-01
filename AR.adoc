@@ -55,7 +55,7 @@ AR or Augmented Reality is all about bring the virtual world into the real one.
 1. Change Asset Serialization to Force Text
 
 == Install the Vuforia package
-1.Select Assets -> Import Package -> Custom Package
+1. Select Assets -> Import Package -> Custom Package
 1. Select the Vuforia package you downloaded
 1. Click Open
 1. When the Import dialog appears click import

@@ -1,0 +1,9 @@
+= Augmented Reality with Unity
+
+== What is AR
+AR or Augmented Reality is all about bring the virtual world into the real one. 
+
+== What can I do with AR
+* Take a Picture with a Video Game Character
+* Demo a product in home before buying.
+* Augment a Catalog shopping experience.
